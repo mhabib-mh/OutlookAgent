@@ -1,0 +1,10 @@
+mcp_server/.env
+mcp_server/.venv
+mcp_server/services/auth/.token.json
+
+# ============================
+# Cache and Temp Files
+# ============================
+mcp_server/**/*.pyc
+mcp_server/**/__pycache__/
+.aider*
